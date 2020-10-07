@@ -17,3 +17,18 @@ int main()
 	return 0;
 
 }
+/*enter the number you want to check for prime:
+19
+***PRIME NUMBER IS FOUND ***** 
+
+
+enter the number you want to check for prime:
+6
+XXXX   NOT PRIME  XXXXX
+
+*\
+
+
+
+
+
